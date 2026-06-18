@@ -25,7 +25,7 @@ Abra o **RStudio**. Na parte inferior da tela, localize a aba **Console**, copie
 
 install.packages(c("shiny", "future", "promises", "bslib", "dplyr", "ggplot2", "DT"))
 
-💻 Como Executar o Projeto
+## 💻 Como Executar o Projeto
 Abra o RStudio.
 
 Vá no menu superior e clique em File > New File > R Script.
@@ -38,10 +38,10 @@ No canto superior direito da janela de edição de código, clique no botão ver
 
 A aplicação web abrirá instantaneamente em uma nova janela.
 
-📂 Como Testar e Usar
+## 📂 Como Testar e Usar
 Clique no botão "Browse..." no menu lateral esquerdo.
 
-Selecione qualquer arquivo .csv da sua máquina (Recomendamos os datasets de teste: player_stats.csv, maps_stats.csv ou mal_anime.csv).
+Selecione qualquer arquivo .csv da sua máquina.
 
 Aguarde o processamento assíncrono finalizar.
 
